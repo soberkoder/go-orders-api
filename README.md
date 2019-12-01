@@ -1,9 +1,9 @@
-*** REST API in Go
+### REST API in Go
 
 Simple CRUD service for managing orders, written in Go.
 
-
-*** Setup and usage
+***
+### Setup and usage
 ```
 cd to the project directory
 ```
@@ -34,7 +34,8 @@ Delete Order
 curl -X DELETE http://localhost:8080/orders/1
 ```
 
-*** Tutorial
+***
+### Tutorial
 
 You can find the tutorial for this application at the [SoberKoder](https://www.soberkoder.com/) blog.
 
