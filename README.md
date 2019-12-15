@@ -39,4 +39,4 @@ curl -X DELETE http://localhost:8080/orders/1
 
 You can find the tutorial for this application at the [SoberKoder](https://www.soberkoder.com/) blog.
 
-https://www.soberkoder.com/golang/golang-rest-api/
+https://www.soberkoder.com/golang/go-rest-api/
